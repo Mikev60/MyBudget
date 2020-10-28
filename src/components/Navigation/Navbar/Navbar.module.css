@@ -1,0 +1,21 @@
+.Navbar {
+    width: 100%;
+    height: 80px; 
+    border: 1px solid black; 
+    background-color: #f3f3f3;
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+nav {
+    width: 80%;
+}
+.Link {
+    text-decoration: none; 
+    color: blue;
+    margin: 0.5rem;
+}
+.Logo {
+    font-size: 2rem;
+    width: 20%;
+}

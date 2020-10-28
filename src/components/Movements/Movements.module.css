@@ -1,0 +1,14 @@
+.Income {
+    color: green;
+    font-weight: bold;
+}
+.Outcome{
+    color: red;
+    font-weight: bold;
+}
+.MvtRow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0.5rem;
+}

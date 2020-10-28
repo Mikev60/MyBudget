@@ -1,0 +1,35 @@
+.balance {
+    display: flex;
+    justify-content: center;
+}
+.balance div {
+    margin: 3rem;
+}
+.balance p {
+    font-size: 2rem;
+}
+.outcome {
+    color: red;
+}
+.income {
+    color: green;
+}
+.row {
+    display: flex;
+    justify-content: center;
+}
+.row div {
+    margin: 3rem;
+}
+.orange {
+    color: orange;
+    font-weight: bold;
+}
+.green {
+    color: green;
+    font-weight: bold;
+}
+.red {
+    color: red;
+    font-weight: bold;
+}

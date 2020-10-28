@@ -1,0 +1,10 @@
+.MovementsForm {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+select {
+    padding: 0.5rem;
+    height: auto;
+    margin: 1rem;
+}

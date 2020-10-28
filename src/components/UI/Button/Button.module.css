@@ -1,0 +1,26 @@
+.Normal {
+    background-color: #4E7CFF;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin: 1rem;
+    color: white;
+}
+.Normal:hover {
+    background-color: #416AD9;
+}
+.Delete {
+    background-color: #DC3545;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 8px 15px;
+    cursor: pointer;
+    margin: 0.3rem;
+    color: white;
+}
+.Delete:hover {
+    background-color: #C82333;
+}
